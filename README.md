@@ -1,2 +1,4 @@
 # GUI_Sky_Web
  
+The code uploaded on GitHub is an HTML file that displays an animated starry sky full of pictures of stars and planets. The file includes various meta tags, links to external CSS and JavaScript libraries such as Bootstrap, jQuery, and Popper. The code uses CSS styling to position and animate the various planet images and also displays their names on hover. The sun and the planets (Mercury, Venus, Earth, Mars, Jupiter, and Saturn) are positioned using absolute coordinates and transformed with CSS properties. The animations are created using keyframes and the animation property. The planets' images are obtained from external sources and are embedded using the background-image property.
+![solar_system](https://user-images.githubusercontent.com/84716396/224546387-2c3d2349-e3a0-4ee9-9e06-dec134d7ce53.gif)
